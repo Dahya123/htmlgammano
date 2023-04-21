@@ -1,0 +1,5 @@
+{
+    "interval": 5,      // Number of seconds between ad displays
+    "max_ads": 10,      // Maximum number of ads to display per session
+    "ad_unit_id": "ca-app-pub-3940256099942544/1033173712"  // Example ad unit ID
+}

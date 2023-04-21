@@ -1,5 +1,5 @@
 {
-    "interval": 5,      // Number of seconds between ad displays
-    "max_ads": 5,      // Maximum number of ads to display per session
-    "ad_unit_id": ""  // Example ad unit ID
+    "interval": 5,     
+    "max_ads": 5,      
+    "ad_unit_id": ""  
 }
